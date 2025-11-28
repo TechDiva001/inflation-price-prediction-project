@@ -19,6 +19,14 @@ Ghana faces significant inflation fluctuations that impact economic stability. T
 - Model evaluation with cross-validation
 - Future predictions with visualization
 
+## 📁 File Descriptions
+
+### `Ghana Economic Data1.csv`
+Historical economic indicators for Ghana (1990-2025) including GDP, inflation rates, and exchange rates.
+
+### `Predicted_Inflation_for_2026_2030.ipynb`
+Complete Jupyter notebook with data analysis, machine learning model, and inflation predictions for 2026-2030.
+
 ## 🚀 Installation & Usage
 ```bash
 # Clone repository
