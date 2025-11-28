@@ -27,5 +27,5 @@ git clone  https://github.com/TechDiva001/inflation-price-prediction-project.git
 # Install dependencies
 pip install -r requirements.txt
 
-# Run the analysis
-python inflation-price-prediction-project.py
+# Run Jupyter notebook
+jupyter notebook Predicted_Inflation_for_2026_2030.ipynb
