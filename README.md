@@ -22,7 +22,7 @@ Ghana faces significant inflation fluctuations that impact economic stability. T
 ## 🚀 Installation & Usage
 ```bash
 # Clone repository
-git clone https://github.com/TechDiva001/inflation-price-prediction-project.git
+git clone  https://github.com/TechDiva001/inflation-price-prediction-project.git 
 
 # Install dependencies
 pip install -r requirements.txt
